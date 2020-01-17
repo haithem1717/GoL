@@ -1,0 +1,11 @@
+*.iml
+.idea/*
+!.idea/codeStyles/
+!.idea/runConfigurations/
+
+.DS_Store
+
+.gradle/
+build/
+out/
+
